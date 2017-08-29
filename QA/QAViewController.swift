@@ -31,7 +31,7 @@ class QAViewController: UIViewController {
                     qna(answer: "James Harden", nbaStar: #imageLiteral(resourceName: "jamesHarden")),
                     qna(answer: "Kawhi Leonard", nbaStar: #imageLiteral(resourceName: "kawhiLeonard")),
                     qna(answer: "Kevin Durant", nbaStar: #imageLiteral(resourceName: "kevinDurant")),
-                    qna(answer: "Klay Thompson", nbaStar: #imageLiteral(resourceName: "stephenCurry")),
+                    qna(answer: "Klay Thompson", nbaStar: #imageLiteral(resourceName: "klayThompson")),
                     qna(answer: "Kobe Bryant", nbaStar: #imageLiteral(resourceName: "kobeBryant")),
                     qna(answer: "Kyrie Irving", nbaStar: #imageLiteral(resourceName: "kyrieIrving")),
                     qna(answer: "Draymond Green", nbaStar: #imageLiteral(resourceName: "draymondGreen")),
